@@ -8,6 +8,7 @@
 
 # init
 
+
 pushd web/public
 rm -f out.txt
 source init.src
